@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindAcronymApp</string>
+    <string name="search_hint">Enter keyword</string>
+    <string name="an_error_occured">No data available</string>
+    <string name="network_status">Please check your internet connection</string>
+    <string name="valid_input_message">Please enter atleast 3 chars</string>
+</resources>
